@@ -1,4 +1,7 @@
-# mynotebook_01
+# mynotebook_01  
+
+
+
 ---
 ```
 import numpy as np
